@@ -1,6 +1,10 @@
 public class Hello {
 
     public static void main(String[] args)  {
-        System.out.print("Hello, Johnathan");
+        System.out.println("Hello, Johnathan");
+
+        int myFirstNumber = 5;
+        System.out.println(myFirstNumber);
+
     }
 }
